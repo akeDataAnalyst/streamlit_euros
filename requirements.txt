@@ -1,2 +1,2 @@
 pandas
-mplsoccer
+mplsoccer = 1.4.0
